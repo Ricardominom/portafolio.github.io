@@ -1,0 +1,3 @@
+[submodule "appsalon-mvc-php"]
+	path = appsalon-mvc-php
+	url = https://github.com/Ricardominom/appsalon-mvc-php
